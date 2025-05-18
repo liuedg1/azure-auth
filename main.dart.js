@@ -22793,7 +22793,7 @@ CJ(a,b){return Math.pow(a,b)},
 Rp(){var s=0,r=A.R(t.N),q
 var $async$Rp=A.M(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:s=3
-return A.T(A.aEc(A.aAO("https","api.github.com","/repos/liuedg1/LoftilyClient/actions/runs",A.ak(["per_page","10"],t.N,t.z))),$async$Rp)
+return A.T(A.aEc(A.aAO("https","api.github.com","/repos/liuedg1/LoftilyClient/actions/runs",A.ak(["per_page","15"],t.N,t.z))),$async$Rp)
 case 3:q=b
 s=1
 break
