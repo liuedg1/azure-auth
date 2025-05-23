@@ -9,3 +9,5 @@
 ## Loftily Client 工件下载页面
 
 提供 [LoftilyClient](https://github.com/liuedg1/LoftilyClient) 的GitHub Actions工件下载
+
+该分支为Flutter Web的构建产物
